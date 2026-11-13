@@ -13,6 +13,7 @@ Każdy projekt poniżej ma własne README z pytaniami, wykresami i głównymi wy
 - **Python:** pandas, NumPy, scikit-learn, XGBoost, TensorFlow/Keras, matplotlib, Jupyter
 - **SQL:** PostgreSQL, modelowanie danych, zapytania analityczne
 - **Power BI:** ETL w Power Query, DAX, model danych, wizualizacja danych, dashboardy
+- **Excel:** Power Query, tabele przestawne, XLOOKUP, SUMIFS, tablice dynamiczne, formatowanie warunkowe, VBA
 - **R:** szeregi czasowe i modele ekonometryczne (GARCH, DCC-GARCH, BEKK), ggplot2
 - **Inne:** Copilot Studio, Git i GitHub, VS Code
 
@@ -25,6 +26,14 @@ Każdy projekt poniżej ma własne README z pytaniami, wykresami i głównymi wy
 - **Pytanie:** ile metrów kwadratowych mieszkania można kupić za średnią pensję w 15 polskich miastach i czy taniej jest kupić, czy wynająć?
 - **Wynik:** za jedno przeciętne miesięczne wynagrodzenie brutto można kupić **1,19 m² w Katowicach**, ale tylko **0,60 m² w Warszawie**, a rata kredytu za typowe mieszkanie jest **wyższa od czynszu najmu we wszystkich 15 miastach**.
 - **W środku:** [Python](https://github.com/narewskimichal/poland-housing-affordability/tree/main/python) · [SQL](https://github.com/narewskimichal/poland-housing-affordability/tree/main/sql) · [Power BI](https://github.com/narewskimichal/poland-housing-affordability/tree/main/powerbi) · [Copilot Studio](https://github.com/narewskimichal/poland-housing-affordability/tree/main/copilot)
+
+### [Raport wiekowania należności w Excelu](https://github.com/narewskimichal/ar-aging-report)
+**Excel** (ETL w Power Query, tabele przestawne, XLOOKUP, tablice dynamiczne) · **VBA** (automatyzacja) · **Python** (dane syntetyczne)
+
+- **Repozytorium:** [ar-aging-report](https://github.com/narewskimichal/ar-aging-report)
+- **Pytanie:** jak przez 12 miesięcy zmieniają się należności, udział przeterminowanych i DSO, i których klientów windykować w pierwszej kolejności?
+- **Wynik:** należności wzrosły z **2,28 do 3,15 mln EUR**, udział przeterminowanych z **21% do 38%**, a DSO z **41,5 do 53,6 dnia**. Jeden kluczowy klient przekracza limit kredytowy o **83%**.
+- **W środku:** [Raport w Excelu](https://github.com/narewskimichal/ar-aging-report/tree/main/excel) · [Kod VBA](https://github.com/narewskimichal/ar-aging-report/blob/main/excel/vba/ReportMacros.bas) · [Raport PDF](https://github.com/narewskimichal/ar-aging-report/blob/main/excel/output/AR_report_2026-10.pdf)
 
 ## Ekonometria finansowa
 
