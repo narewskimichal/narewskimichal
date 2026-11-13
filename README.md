@@ -13,6 +13,7 @@ Each project below has its own README with the question, the approach, charts an
 - **Python:** pandas, NumPy, scikit-learn, XGBoost, TensorFlow/Keras, matplotlib, Jupyter
 - **SQL:** PostgreSQL, data modelling, analytical queries
 - **Power BI:** ETL in Power Query, DAX, data modelling, data visualization, dashboards
+- **Excel:** Power Query, pivot tables, XLOOKUP, SUMIFS, dynamic arrays, conditional formatting, VBA
 - **R:** time series and econometric models (GARCH, DCC-GARCH, BEKK), ggplot2
 - **Other:** Copilot Studio, Git and GitHub, VS Code
 
@@ -25,6 +26,14 @@ Each project below has its own README with the question, the approach, charts an
 - **Question:** how many square metres of a flat can an average salary buy in 15 Polish cities, and is it cheaper to buy or to rent?
 - **Result:** one average monthly gross wage buys **1.19 m² in Katowice** but only **0.60 m² in Warsaw**, and the mortgage payment for a typical flat is **higher than rent in all 15 cities**.
 - **Inside the repo:** [Python](https://github.com/narewskimichal/poland-housing-affordability/tree/main/python) · [SQL](https://github.com/narewskimichal/poland-housing-affordability/tree/main/sql) · [Power BI](https://github.com/narewskimichal/poland-housing-affordability/tree/main/powerbi) · [Copilot Studio](https://github.com/narewskimichal/poland-housing-affordability/tree/main/copilot)
+
+### [Accounts receivable aging report in Excel](https://github.com/narewskimichal/ar-aging-report)
+**Excel** (Power Query ETL, pivot tables, XLOOKUP, dynamic arrays) · **VBA** (automation) · **Python** (synthetic data)
+
+- **Repository:** [ar-aging-report](https://github.com/narewskimichal/ar-aging-report)
+- **Question:** how do receivables, the overdue share and DSO change over 12 months, and which customers should be chased first?
+- **Result:** receivables grew from **2.28 to 3.15 million EUR**, the overdue share rose from **21% to 38%** and DSO from **41.5 to 53.6 days**. One key account is **83% over its credit limit**.
+- **Inside the repo:** [Excel report](https://github.com/narewskimichal/ar-aging-report/tree/main/excel) · [VBA code](https://github.com/narewskimichal/ar-aging-report/blob/main/excel/vba/ReportMacros.bas) · [PDF report](https://github.com/narewskimichal/ar-aging-report/blob/main/excel/output/AR_report_2026-10.pdf)
 
 ## Financial econometrics
 
