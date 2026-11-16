@@ -2,7 +2,7 @@
 
 # Michał Narewski
 
-**Informatyka i ekonometria (studia magisterskie)** · AGH w Krakowie · Analiza danych · Analiza finansowa · Rachunkowość
+**Informatyka i ekonometria (studia magisterskie)** · AGH w Krakowie · Analiza danych · Analiza finansowa · Księgowość
 
 Analizuję dane w Pythonie, SQL, Power BI i R, najczęściej przy problemach związanych z finansami: ceny mieszkań, ryzyko portfela i strategie inwestycyjne. 
 
